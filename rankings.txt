@@ -1,10 +1,12 @@
-capo;39;453143
+capo;40;860154
 old;36;844330
 Polrgam;33;48964
+IniciosAO;32;200341330
 Mithril;32;643011
-IniciosAO;32;225353830
+TheRealTrabajin;28;6885887
 RIGBy;28;36196
-TheRealTrabajin;28;6342029
+talin;25;6515
+barbanegrA;25;5197073
 tod;25;10400
 workworkwork;23;12648
 belmiho;23;99191
@@ -13,8 +15,6 @@ PalingaG;22;610820147
 todd;20;16660
 tol;20;18250
 Jenny Naughty;19;0
-talin;18;14500
 Fiiuumba;17;7308
 Trii;16;1456
-Trabajingo;15;5671072
-GerreFiumba;15;7507
+yyy;15;3610
