@@ -1,19 +1,19 @@
 capo;43;4445034
 old;38;1204330
-Polrgam;33;48964
+Polrgam;34;87664
 Mithril;32;643011
-TheRealTrabajin;29;6897529
+TheRealTrabajin;29;6975778
+FREFIRE;29;43368
 RIGBy;28;36196
-talin;25;6515
 barbanegrA;25;5619832
 tod;25;10500
+talin;25;6515
 workworkwork;23;12648
-belmiho;23;99191
 PicaPi;23;81785
+belmiho;23;99191
 PalingaG;22;610820147
-todd;20;16660
+Cazingo;22;27186
 tol;20;18250
+todd;20;16660
+tfg;20;3418
 Jenny Naughty;19;0
-Fiiuumba;17;7308
-Trii;16;1456
-yyy;15;3610
