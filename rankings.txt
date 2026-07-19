@@ -1,11 +1,11 @@
-capo;43;4445034
+capo;44;7219504
 old;38;1204330
+FREFIRE;35;132689
 Polrgam;34;87664
 Mithril;32;643011
 TheRealTrabajin;29;6975778
-FREFIRE;29;43368
 RIGBy;28;36196
-barbanegrA;25;5619832
+barbanegrA;25;9369292
 tod;25;10500
 talin;25;6515
 workworkwork;23;12648
