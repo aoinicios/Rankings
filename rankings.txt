@@ -1,19 +1,19 @@
-capo;44;7219504
-old;38;1204330
+capo;44;Paladin
+old;38;Guerrero
 FREFIRE;35;Mago
-Polrgam;34;87664
-Mithril;32;643011
-TheRealTrabajin;29;6975778
-RIGBy;28;36196
-barbanegrA;25;9369292
-tod;25;10500
-talin;25;6515
-workworkwork;23;12648
-PicaPi;23;81785
-belmiho;23;99191
-PalingaG;22;610820147
-Cazingo;22;27186
-tol;20;18250
-todd;20;16660
-tfg;20;3418
-Jenny Naughty;19;0
+Polrgam;34;Mago
+Mithril;32;Trabajador
+TheRealTrabajin;29;Trabajador
+RIGBy;28;Mago
+barbanegrA;25;Trabajador
+tod;25;Trabajador
+talin;25;Trabajador
+workworkwork;23;Trabajador
+PicaPi;23;Trabajador
+belmiho;23;Mago
+PalingaG;22;Paladin
+Cazingo;22;Cazador
+tol;20;Trabajador
+todd;20;Trabajador
+tfg;20;Trabajador
+Jenny Naughty;19;Clerigo
