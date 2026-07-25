@@ -1,13 +1,15 @@
 capo;44;Paladin
+FREFIRE;42;Mago
 old;38;Guerrero
-FREFIRE;35;Mago
 Polrgam;34;Mago
+RRR;33;Trabajador
 Mithril;32;Trabajador
+mongo;29;Paladin
 TheRealTrabajin;29;Trabajador
 RIGBy;28;Mago
 barbanegrA;25;Trabajador
-tod;25;Trabajador
 talin;25;Trabajador
+tod;25;Trabajador
 workworkwork;23;Trabajador
 PicaPi;23;Trabajador
 belmiho;23;Mago
@@ -15,5 +17,3 @@ PalingaG;22;Paladin
 Cazingo;22;Cazador
 tol;20;Trabajador
 todd;20;Trabajador
-tfg;20;Trabajador
-Jenny Naughty;19;Clerigo
